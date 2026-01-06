@@ -1,0 +1,6 @@
+activeFilters=hooks.*,stepDefenitions.*
+eclipse.preferences.version=1
+enableProjectSpecific=true
+enableShowHook=false
+inactiveFilters=
+validationPlugins=io.cucumber.junit.Cucumber, io.cucumber.core.backend.CucumberBackendException, io.cucumber.junit.Cucumber

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Flipkart_Testing
+Bundle-SymbolicName: Flipkart_Testing
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: Flipkart.Testing
+Export-Package: baseClass,
+ hooks,
+ pages,
+ reusableFunctions,
+ stepDefenitions,
+ testRunner,
+ utilities
