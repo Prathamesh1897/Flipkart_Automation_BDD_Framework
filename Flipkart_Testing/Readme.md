@@ -4,6 +4,7 @@
 - Java
 - Selenium
 - TestNG
+- Junit
 - Maven
 - Allure Reports
 
